@@ -18,5 +18,4 @@ Para ejecutar la aplicación se requiere instalar "npm" y correr los siguientes 
 - npm install
 - npm start
 
-Cuando arranca la aplicación aparece la tabla vacía con el siguiente mensaje "No se encontaron datos", para visualizar la información solo es que pulsen el boton "Buscar" o
-selecionen una opción en el filtro (name, web site, city).5 emplea
+Cuando arranca la aplicación aparece la tabla vacía con el siguiente mensaje "No se encontaron datos", para visualizar la información solo es que pulsen el boton "Buscar" o selecione una opción en el filtro (name, web site, city).
