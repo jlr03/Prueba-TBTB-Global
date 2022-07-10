@@ -8,7 +8,7 @@ La Api fue creada usando el lenguaje C# la cual hace conexión a la base de dato
 Para el desarrollo de la API de esta prueba, me basé en otra API que desarrollé de un anterior proyecto personal que hice para un diploamdo sobre desarrollador web junior con Talento JuvenTiC.
 Tuve problemas al cambiar las referencias del anterior proyecto y por ende tuve que seguir desarrollando la API de la presente prueba de esa forma.  
 
-# Parte II
+# Parte III
 ## Aplicación Web
 Hice la aplicación Web usando el framework React JS y Boostrap. Para el despliegue de la información lo diseñé de dos formas: 
 Una tabla, la cual podra ver al pusar el boton "Vista 1".
